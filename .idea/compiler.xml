@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+<<<<<<< HEAD
+      <profile default="true" name="Default" enabled="true" />
+=======
+>>>>>>> file
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+<<<<<<< HEAD
+        <module name="springblog" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springblog" target="8" />
+=======
+        <module name="wenjianguanli" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="wenjianguanli" target="1.8" />
+>>>>>>> file
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+<<<<<<< HEAD
+      <module name="springblog" options="-parameters" />
+=======
+      <module name="wenjianguanli" options="-parameters" />
+>>>>>>> file
+    </option>
+  </component>
+</project>

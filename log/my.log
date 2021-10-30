@@ -1,0 +1,17 @@
+2021-10-30 18:50:42.282  INFO 2108 --- [main] com.example.Application                  : Starting Application on DESKTOP-74ALEC6 with PID 2108 (D:\文件管理\target\classes started by xuss3 in D:\文件管理)
+2021-10-30 18:50:42.297  INFO 2108 --- [main] com.example.Application                  : No active profile set, falling back to default profiles: default
+2021-10-30 18:50:42.917  WARN 2108 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.example]' package. Please check your configuration.
+2021-10-30 18:50:43.303  INFO 2108 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2021-10-30 18:50:43.311  INFO 2108 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-10-30 18:50:43.312  INFO 2108 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.33]
+2021-10-30 18:50:43.471  INFO 2108 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-10-30 18:50:43.471  INFO 2108 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1117 ms
+2021-10-30 18:50:44.007  INFO 2108 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-10-30 18:50:44.196  INFO 2108 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2021-10-30 18:50:44.199  INFO 2108 --- [main] com.example.Application                  : Started Application in 2.366 seconds (JVM running for 3.98)
+2021-10-30 18:51:39.737  INFO 2108 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-10-30 18:51:39.738  INFO 2108 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-10-30 18:51:39.745  INFO 2108 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 7 ms
+2021-10-30 18:55:14.025  INFO 2108 --- [http-nio-8080-exec-9] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2021-10-30 18:55:14.165  INFO 2108 --- [http-nio-8080-exec-9] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2021-10-30 18:55:14.740  WARN 2108 --- [http-nio-8080-exec-9] o.a.c.util.SessionIdGeneratorBase        : Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [547] milliseconds.
